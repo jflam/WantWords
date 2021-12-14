@@ -1,0 +1,5 @@
+{
+    "requires_gpu": "true",
+    "container_user": "root",
+    "base_container_image": "fastdotai/fastai:latest"
+}
